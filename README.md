@@ -6,10 +6,6 @@
 git clone https://github.com/airatbakiev/api_final_yatube.git
 ```
 
-```
-cd kittygram2plus
-```
-
 Cоздать и активировать виртуальное окружение:
 
 ```
