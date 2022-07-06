@@ -1,12 +1,12 @@
 ## REST API для проекта [Yatube](https://github.com/airatbakiev/yatube)
 
-## Стек
+### Стек
 
 - Python 3.7.0
 - Django 2.2.16
 - DRF 3.12.4
 
-## Описание
+### Описание
 
 Это практическое задание, выполненное при освоении Django Rest Framework
 
